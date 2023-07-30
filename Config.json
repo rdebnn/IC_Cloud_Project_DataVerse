@@ -1,0 +1,30 @@
+{
+    "Note": "This File contains all the configuration Information",
+    "Create_Invoices":false,
+    "Send_Invoices":true,
+    "Excel_File": {
+        "File_Name":"C:\\Users\\rdeb\\OneDrive - Novo Nordisk\\DataVerseProject\\Copy of Latest SLA Prod Data 08 june (003).xlsx",
+        "Sheet1":"Common Fields",
+        "Sheet2_SLA":"new_slabillingmastertables",
+        "Note for SLA columns": "Do not chnage the Order",
+        "SLA_Columns":["new_affiliates", "new_comments", "new_companycode",
+            "new_costcenter", "new_costindkk", "new_department", "new_fte","new_ftecostdkk","new_ftecostinr","new_months","new_stakeholder","new_support"]
+    },
+    "Note for Invoices Folder":"All the files in the folder will be overwritten",
+    "Invoices_Folder":"C:\\Users\\rdeb\\OneDrive - Novo Nordisk\\DataVerseProject\\Invoices",
+    "Web_Driver":"C:\\Users\\rdeb\\OneDrive - Novo Nordisk\\DataVerseProject\\drivers\\msedgedriver.exe",
+    "SLA_Cloud":"https://interinvoicing-jk5mksf7nb.dispatcher.hana.ondemand.com/index.html",
+    "debug_mode": false,
+    "temp_timer": 1,
+    "note for temp timer": "Update Temp Timer in seconds",
+    "SenderEmailID": "rdeb@novonordisk.com",
+    "exchnage rate": "11.76",
+    "Quarter" : "Q2",
+    "Invoice Flow": "Charge-back",
+    "Sender Comp code": "0402",
+    "Currency": "INR",
+    "Cost Type": "SLA costs",
+    "CostCentre": "402-22100"
+}
+
+

@@ -1,0 +1,67 @@
+2023-06-20 22:42:40,152:INFO: ----- SLA processing started -------------------------
+2023-06-20 22:42:57,156:INFO: ----- SLA processing started -------------------------
+2023-06-20 22:42:58,807:INFO: 13 invoices are generated successfully
+2023-06-20 22:42:58,807:INFO: ----- SLA processing Ended ---------------------------
+
+2023-06-20 22:43:15,583:INFO: 13 invoices are generated successfully
+2023-06-20 22:43:15,583:INFO: ----- SLA processing Ended ---------------------------
+
+2023-06-20 22:44:35,135:INFO: ----- SLA processing started -------------------------
+2023-06-20 22:44:36,510:INFO: 13 invoices are generated successfully
+2023-06-20 22:44:36,510:INFO: ----- SLA processing Ended ---------------------------
+
+2023-06-20 22:45:08,585:INFO: ----- SLA processing started -------------------------
+2023-06-20 22:45:09,818:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\BA Malaysia_0369_ARCW_Q2.pdf
+2023-06-20 22:45:09,820:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Sri Lanka_0417_ARCW_Q2.pdf
+2023-06-20 22:45:09,822:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\France Site Chartres_0005_AUMO_Q2.pdf
+2023-06-20 22:45:09,824:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\India_0088_BINM_Q2.pdf
+2023-06-20 22:45:09,826:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Israel_0097_CHIR_Q2.pdf
+2023-06-20 22:46:03,887:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Venezuela_0458_FEZE_Q2.pdf
+2023-06-20 22:46:03,919:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Australia_0039_MLTZ_Q2.pdf
+2023-06-20 22:46:03,927:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Thailand_0047_NALS_Q2.pdf
+2023-06-20 22:46:03,955:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Philippines_0046_RWPA_Q2.pdf
+2023-06-20 22:46:03,971:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\South Korea_0048_SBSO_Q2.pdf
+2023-06-20 22:47:06,654:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\GBS India_0402_SIRU_Q2.pdf
+2023-06-20 22:47:06,661:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\United Kingdom_0018_TYME_Q2.pdf
+2023-06-20 22:47:06,664:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Vietnam_0484_YVTH_Q2.pdf
+2023-06-20 22:47:58,549:INFO: Web Update Summary : Successful -> 13 ; Failed -> 0
+2023-06-20 22:48:05,618:INFO: ----- SLA processing Ended ---------------------------
+
+2023-06-20 22:50:36,333:INFO: ----- SLA processing started -------------------------
+2023-06-20 22:50:37,528:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\BA Malaysia_0369_ARCW_Q2.pdf
+2023-06-20 22:50:37,533:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Sri Lanka_0417_ARCW_Q2.pdf
+2023-06-20 22:50:37,535:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\France Site Chartres_0005_AUMO_Q2.pdf
+2023-06-20 22:50:37,538:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\India_0088_BINM_Q2.pdf
+2023-06-20 22:50:37,542:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Israel_0097_CHIR_Q2.pdf
+2023-06-20 22:51:14,933:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Venezuela_0458_FEZE_Q2.pdf
+2023-06-20 22:51:14,940:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Australia_0039_MLTZ_Q2.pdf
+2023-06-20 22:51:14,952:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Thailand_0047_NALS_Q2.pdf
+2023-06-20 22:51:14,968:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Philippines_0046_RWPA_Q2.pdf
+2023-06-20 22:51:14,988:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\South Korea_0048_SBSO_Q2.pdf
+2023-06-20 22:52:14,408:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\GBS India_0402_SIRU_Q2.pdf
+2023-06-20 22:52:14,411:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\United Kingdom_0018_TYME_Q2.pdf
+2023-06-20 22:52:14,413:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Vietnam_0484_YVTH_Q2.pdf
+2023-06-20 22:53:02,549:INFO: Web Update Summary : Successful -> 12 ; Failed -> 0
+2023-06-20 22:53:10,094:INFO: ----- SLA processing Ended ---------------------------
+
+2023-06-21 09:51:59,188:INFO: ----- SLA processing started -------------------------
+2023-06-21 09:52:00,541:INFO: 13 invoices are generated successfully
+2023-06-21 09:52:00,541:INFO: ----- SLA processing Ended ---------------------------
+
+2023-07-11 16:57:29,404:INFO: ----- SLA processing started -------------------------
+2023-07-11 16:57:33,558:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\BA Malaysia_0369_ARCW_Q2.pdf
+2023-07-11 16:57:33,560:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Sri Lanka_0417_ARCW_Q2.pdf
+2023-07-11 16:57:33,563:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\France Site Chartres_0005_AUMO_Q2.pdf
+2023-07-11 16:57:33,567:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\India_0088_BINM_Q2.pdf
+2023-07-11 16:57:33,574:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Israel_0097_CHIR_Q2.pdf
+2023-07-11 16:58:33,934:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Venezuela_0458_FEZE_Q2.pdf
+2023-07-11 16:58:33,936:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Australia_0039_MLTZ_Q2.pdf
+2023-07-11 16:58:33,939:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Thailand_0047_NALS_Q2.pdf
+2023-07-11 16:58:33,945:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Philippines_0046_RWPA_Q2.pdf
+2023-07-11 16:58:33,955:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\South Korea_0048_SBSO_Q2.pdf
+2023-07-11 16:59:45,491:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\GBS India_0402_SIRU_Q2.pdf
+2023-07-11 16:59:45,494:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\United Kingdom_0018_TYME_Q2.pdf
+2023-07-11 16:59:45,500:INFO: INVOICE PATH: C:\Users\rdeb\OneDrive - Novo Nordisk\DataVerseProject\Invoices\Vietnam_0484_YVTH_Q2.pdf
+2023-07-11 17:00:40,110:INFO: Web Update Summary : Successful -> 12 ; Failed -> 0
+2023-07-11 17:00:44,326:INFO: ----- SLA processing Ended ---------------------------
+
